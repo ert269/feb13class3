@@ -1,4 +1,4 @@
-# feb13class3
+# Section 1
 creating new repository 
 
 editing from zip
@@ -6,10 +6,8 @@ editing from zip
 ## Section 2
 
 **bold**
-#large font
+# large font
 ## medium font
-
-# welcome
 
 ## Section 3
 
